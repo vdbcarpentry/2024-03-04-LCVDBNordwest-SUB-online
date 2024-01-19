@@ -281,7 +281,14 @@ Edit the text to match who can attend the workshop. For instance:
 
 <a href="https://www.vdb-online.org"> 
    <img src="https://raw.githubusercontent.com/evamarik/2019-11-frankfurt/gh-pages/img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
- </a><br/>
+ </a>
+ <a href="https://www.sub.uni-goettingen.de">
+   <img src="assets/img/GAU_SUB_horizontal_cmykg.svg"/>
+ </a>
+ 
+ <br/>
+
+
 
 <hr/>
 
