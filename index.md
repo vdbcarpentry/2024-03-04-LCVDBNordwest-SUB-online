@@ -279,6 +279,10 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 {% endcomment %}
 
+<a href="https://www.vdb-online.org"> 
+   <img src="https://raw.githubusercontent.com/evamarik/2019-11-frankfurt/gh-pages/img/VDB_Logo_RGB_400px.jpg" alt="VDB" height="100"/>
+ </a><br/>
+
 <hr/>
 
 {% comment%}
